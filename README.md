@@ -29,7 +29,7 @@ zainshafique23@gmail.com
   <a href="https://github.com/zshafique25" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://discord.com/invite/zain_25_1999" target="_blank">
+  <a href="https://discord.com/invite/1069750713573449819" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
   </a>
 </p>
