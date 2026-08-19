@@ -23,7 +23,7 @@ zainshafique23@gmail.com
 
 ### Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/zain-shafique-8b0a56274/" target="_blank">
+  <a href="https://www.linkedin.com/in/zain-shafique01" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/zshafique25" target="_blank">
