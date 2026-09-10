@@ -12,7 +12,7 @@ I enjoy coding ヽ(^o^)ノ
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,postgres,azure,fastapi,flask,react,docker,selenium,git,githubactions,sklearn,streamlit,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,js,mssql,mysql,postgres,azure,fastapi,flask,react,docker,beautifulsoup,selenium,git,githubactions,sklearn,streamlit,linux&perline=7" />
 
 <br/><br/>
 
