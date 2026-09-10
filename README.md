@@ -15,11 +15,11 @@ I enjoy coding ヽ(^o^)ノ
 <img src="https://skillicons.dev/icons?i=py,js,sql,mysql,postgres,azure,fastapi,flask,docker,beautifulsoup,selenium,git,githubactions,sklearn,streamlit,linux,anaconda&perline=7" />
 
 <br/>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-00897B?style=flat-square&logo=databricks&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)]
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)]
+[![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)]
+[![Azure Synapse](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)]
+[![Data Modelling](https://img.shields.io/badge/Data_Modelling-00897B?style=flat-square&logo=databricks&logoColor=white)]
 
 <br/><br/>
 
