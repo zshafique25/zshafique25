@@ -12,7 +12,14 @@ I enjoy coding ヽ(^o^)ノ
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,sql,mysql,postgres,azure,fastapi,flask,docker,beautifulsoup,selenium,git,githubactions,sklearn,streamlit,linux,anaconda&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,mysql,postgres,azure,opencv,fastapi,flask,docker,beautifulsoup,selenium,git,githubactions,sklearn,streamlit,linux,anaconda&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
 
 <br/><br/>
 
