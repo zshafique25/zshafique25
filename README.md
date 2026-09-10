@@ -16,9 +16,20 @@ I enjoy coding ヽ(^o^)ノ
 
 <br/><br/>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img
     src="./profile/stats.svg"
     alt="Zain Shafique's GitHub Stats"
+  />
+</p>
+
+<br/>
+
+<!-- Top Languages -->
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Zain Shafique's Top Languages"
   />
 </p>
