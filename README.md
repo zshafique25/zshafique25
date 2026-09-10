@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,mysql,postgres,azure,opencv,fastapi,flask,docker,beautifulsoup,selenium,git,githubactions,sklearn,streamlit,linux,anaconda&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,postgres,azure,opencv,fastapi,flask,docker,selenium,git,githubactions,sklearn,linux,anaconda&perline=10" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Synapse Analytics"/>
 </p>
 
-<br/><br/>
+<br/>
 
 <!-- GitHub Stats -->
 <p align="center">
